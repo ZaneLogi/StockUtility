@@ -1,0 +1,12 @@
+# Ignore json files
+*.json
+
+# Ignore files
+stock_ids.txt
+
+# Ignore any debug/release folders
+__pycache__/
+stock_data/
+
+# Ignoring Win * Thumbnail Files
+Thumbs.db
